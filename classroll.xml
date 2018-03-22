@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="classroll.xsl"?>
+
+<classroll>
+  <student>
+    <id>101010</id>
+    <lastname>Smith</lastname>
+    <firstname>Joe</firstname>
+	  <degree>BS</degree>
+	  <major>Computer Science</major>
+	  <major>Engineering</major>
+    <testscores count="5">
+      <score>65</score>
+      <score>77</score>
+      <score>67</score>
+      <score>64</score>
+      <score>80</score>
+    </testscores>
+  </student>
+  <student>
+    <id>101022</id>
+    <lastname>Ramirez</lastname>
+    <firstname>Jose</firstname>
+	  <degree>MA</degree>
+	  <major>Art History</major>
+    <testscores count="5">
+      <score>82</score>
+      <score>74</score>
+      <score>65</score>
+      <score>98</score>
+      <score>81</score>
+    </testscores>
+  </student>
+  <student>
+    <id>101030</id>
+    <lastname>Adams</lastname>
+    <firstname>Rachel</firstname>
+    <major>Engineering</major>
+    <testscores count="5">
+      <score>68</score>
+      <score>62</score>
+      <score>67</score>
+      <score>63</score>
+      <score>72</score>
+    </testscores>
+  </student>
+  <student>
+    <id>201010</id>
+    <lastname>Ramirez</lastname>
+    <firstname>Mary</firstname>
+    <testscores count="5">
+      <score>81</score>
+      <score>70</score>
+      <score>67</score>
+      <score>93</score>
+      <score>89</score>
+    </testscores>
+  </student>
+  <student>
+    <id>201011</id>
+    <lastname>Johnson</lastname>
+    <firstname>Lamar</firstname>
+    <testscores count="5">
+      <score>82</score>
+      <score>74</score>
+      <score>64</score>
+      <score>91</score>
+      <score>87</score>
+    </testscores>
+  </student>
+
+</classroll>
